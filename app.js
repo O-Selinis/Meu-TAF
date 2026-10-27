@@ -1,6 +1,6 @@
 'use strict';
 (() => {
-  const VERSION='2.0.0';
+  const VERSION='3.0.0';
   const WORKOUT_KEY='meu_taf_registros_v1'; // preserva registros da primeira versão
   const WELL_KEY='meu_taf_bemestar_v2';
   const CHECK_KEY='meu_taf_checks_v2';

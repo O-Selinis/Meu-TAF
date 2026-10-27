@@ -1,16 +1,26 @@
 {
-  "id":"./",
-  "name":"Meu TAF e Musculação",
-  "short_name":"Meu TAF",
-  "description":"Plano completo de musculação, corrida, natação e acompanhamento de alimentação, hidratação e sono. Dados locais e backup JSON.",
-  "start_url":"./",
-  "scope":"./",
-  "display":"standalone",
-  "background_color":"#0d121a",
-  "theme_color":"#571f2c",
-  "lang":"pt-BR",
-  "icons":[
-    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
-    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  "id": "./",
+  "name": "Meu TAF e Musculação",
+  "short_name": "Meu TAF",
+  "description": "Treinos detalhados, alimentação, hidratação e sono; identidade do lobo vermelho e abertura animada.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0F0F0F",
+  "theme_color": "#0F0F0F",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
   ]
 }
